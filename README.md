@@ -26,10 +26,14 @@ Java + JSP 회원제 게시판 사이트
 
 
 
-<video src="http://jobs.dothome.co.kr/resources/01.mp4" type="video/mp4" controls width="600"></video>
+🖥️ 로그인 워크플로우 영상
 
 
-
+    <video width="320" height="240" controls>
+      <source src="http://jobs.dothome.co.kr/resources/01.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    
+</video>
 
 
 
