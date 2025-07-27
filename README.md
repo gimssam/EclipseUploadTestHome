@@ -38,7 +38,7 @@ Java + JSP 회원제 게시판 사이트
 
 https://www.youtube.com/watch?v=vkXO-DaZjc0
 
-[![Spring Security 데모 영상](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Spring Security 데모 영상](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=vkXO-DaZjc0)
 
 
 
