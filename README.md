@@ -23,3 +23,24 @@ Java + JSP 회원제 게시판 사이트
 🖥️ 회원가입 워크플로우 영상
 
 <video src="https://github.com/user-attachments/assets/dc95f859-ade4-4d96-bab1-1f1c17915619" controls width="600"></video>
+
+
+
+<video src="http://jobs.dothome.co.kr/resources/01.mp4" controls width="600"></video>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
