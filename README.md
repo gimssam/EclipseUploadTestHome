@@ -35,8 +35,7 @@ Java + JSP 회원제 게시판 사이트
 
 
 #4-1. 워크플로우 문서화
-
-https://www.youtube.com/watch?v=vkXO-DaZjc0
+유튜브 영상 미리보기 이미지 + 클릭시 유튜브 연결
 
 [![Spring Security 데모 영상](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=vkXO-DaZjc0)
 
