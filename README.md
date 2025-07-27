@@ -24,18 +24,14 @@ Java + JSP 회원제 게시판 사이트
 
 <video src="https://github.com/user-attachments/assets/dc95f859-ade4-4d96-bab1-1f1c17915619" controls width="600"></video>
 
-
-
 🖥️ 로그인 워크플로우 영상
 
-
-<video width="320" height="240" controls>
-<source src="http://jobs.dothome.co.kr/resources/01.mp4" type="video/mp4">
-</video>
+<video src="https://github.com/user-attachments/assets/2f8592fc-6269-49cc-a37f-a10d2463571b" controls width="600"></video>
 
 
 🖥️ 게시판 워크플로우 영상
 
+<video src="https://github.com/user-attachments/assets/2c4648b4-e77c-45cb-81ff-28863d979869" controls width="600"></video>
 
 
 #4-1. 워크플로우 문서화
