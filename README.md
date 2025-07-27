@@ -36,7 +36,7 @@ Java + JSP 회원제 게시판 사이트
 [![Spring Security 데모 영상](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=vkXO-DaZjc0)
 
 유튜브 영상 미리보기 이미지 + 클릭시 유튜브 연결 + 새창 띄우기는 깃허브에서 안되게 해놓음 => ctrl + 클릭 뿐이 없음
-<a href="https://www.youtube.com/watch?v=vkXO-DaZjc0" target="_blank">
+<a href="https://www.youtube.com/watch?v=vkXO-DaZjc0">
   <img src="https://img.youtube.com/vi/vkXO-DaZjc0/0.jpg" alt="YouTube 영상 썸네일" width="600">
 </a>
 
