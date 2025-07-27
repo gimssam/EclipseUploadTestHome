@@ -35,12 +35,14 @@ Java + JSP 회원제 게시판 사이트
 
 
 #4-1. 워크플로우 문서화
-유튜브 영상 미리보기 이미지 + 클릭시 유튜브 연결
+유튜브 영상 미리보기 이미지 + 클릭시 유튜브 연결 = 보안때문에 직접 iframe , 호스팅 리소스는 안됨
 
 [![Spring Security 데모 영상](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=vkXO-DaZjc0)
 
-
-
+유튜브 영상 미리보기 이미지 + 클릭시 유튜브 연결 + 새창 띄우기
+<a href="https://www.youtube.com/watch?v=vkXO-DaZjc0" target="_blank">
+  <img src="https://img.youtube.com/vi/abc123/0.jpg" alt="YouTube 영상 썸네일" width="600">
+</a>
 
 
 
