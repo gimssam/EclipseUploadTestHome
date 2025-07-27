@@ -26,7 +26,7 @@ Java + JSP 회원제 게시판 사이트
 
 
 
-<video src="http://jobs.dothome.co.kr/resources/01.mp4" controls width="600"></video>
+<video src="http://jobs.dothome.co.kr/resources/01.mp4" type="video/mp4" controls width="600"></video>
 
 
 
