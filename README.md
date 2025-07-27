@@ -21,3 +21,4 @@ Java + JSP 회원제 게시판 사이트
 #4. 워크플로우
 
 🖥️ 회원가입 워크플로우 영상
+https://github.com/user-attachments/assets/dc95f859-ade4-4d96-bab1-1f1c17915619
